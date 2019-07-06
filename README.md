@@ -1,8 +1,10 @@
-## Due to the blocking of GreatF88kWall, use taobao mirror of `npm`
-```npm config set registry https://registry.npm.taobao.org```
+## Learn to use Git first
 
 ## Download and Install Node.js
 LTS version, at https://nodejs.org/en/
+
+## Due to the blocking of GreatF88kWall, use taobao mirror of `npm`
+```npm config set registry https://registry.npm.taobao.org```
 
 ## Download this repo
 ```git clone https://github.com/akiori/visualization.git```
