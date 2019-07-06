@@ -20,10 +20,10 @@ then open Chrome, type in ```http://localhost:3000/VIEW_NAME ``` and hit enter. 
 3. `index.js`: routers
 
 ### Frameworks used
-	Node.js + Express
+Node.js + Express
 
 ### Visualization
-	D3.js
+D3.js
 
 ### Development
 add routers in `index.js`, then create new HTML files in `views` folder. All the data are stored in `public/data`.
