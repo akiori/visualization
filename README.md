@@ -1,3 +1,6 @@
+## Due to the blocking of GreatF88kWall, use taobao mirror of `npm`
+```npm config set registry https://registry.npm.taobao.org```
+
 ## Download and Install Node.js
 LTS version, at https://nodejs.org/en/
 
