@@ -12,9 +12,9 @@ then open Chrome, type in ```http://localhost:3000/VIEW_NAME ``` and hit enter. 
 ## Notes
 
 ### File Structure
-1. ```public/data```: data store
-2. ```views```: html files
-3. ```index.js```: routers
+1. `public/data`: data store
+2. `views`: html files
+3. `index.js`: routers
 
 ### Frameworks used
 	Node.js + Express
