@@ -1,4 +1,6 @@
 ## Learn to use Git first
+besides I suggest everyone use `Visual Studio Code`as code editor. It's the most powerful editor (currently).
+for windows users, I also suggest you to use `cmder` as the command line tool. it looks better and works better than Windows' own command line tool.
 
 ## Download and Install Node.js
 LTS version, at https://nodejs.org/en/
