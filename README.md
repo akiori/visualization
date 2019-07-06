@@ -1,4 +1,4 @@
-## 下载：
+## Download:
 > git clone git@github.com:BrexitProject/visualization.git
   
 ## 部署运行
