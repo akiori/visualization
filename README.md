@@ -18,7 +18,7 @@ npm install // install dependency packages
 npm start // start the project
 ```
 
-then open Chrome, type in ```http://localhost:3000/VIEW_NAME ``` and hit enter. Pls refer to ```index.js``` .
+then open Chrome, type in ```http://localhost:3000/VIEW_NAME ``` and hit enter. 
 **Note that** `VIEW_NAME` is only a *placeholder*. detailed description of each view please refer to the tencent doc.
 
 ## Notes
