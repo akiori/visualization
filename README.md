@@ -19,6 +19,7 @@ npm start // start the project
 ```
 
 then open Chrome, type in ```http://localhost:3000/VIEW_NAME ``` and hit enter. Pls refer to ```index.js``` .
+**Note** `VIEW_NAME` is only a placeholder. detailed description of each view is at tencent doc.
 
 ## Notes
 
