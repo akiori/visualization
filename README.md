@@ -19,7 +19,7 @@ npm start // start the project
 ```
 
 then open Chrome, type in ```http://localhost:3000/VIEW_NAME ``` and hit enter. 
-**Note that** `VIEW_NAME` is only a *placeholder*. detailed description of each view (`local linke`) please refer to the tencent doc.
+**Note that** `VIEW_NAME` is only a *placeholder*. detailed description of each view (`local link`) please refer to the tencent doc.
 
 ## Notes
 
