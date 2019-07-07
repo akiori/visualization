@@ -12,6 +12,7 @@ LTS version, at https://nodejs.org/en/
 ```git clone https://github.com/akiori/visualization.git```
 
 ## Deploy & Run
+** please run these commands inside the root folder of visualization! **
 ```javascript
 npm install // install dependency packages
 npm start // start the project
